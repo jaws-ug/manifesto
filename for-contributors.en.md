@@ -38,7 +38,7 @@ Participation in the core member is assumed to be participated when some kind of
 All the core members in the branch have a flat relationship, but it is obvious that core members who compile opinions within the branch or take on a specific task at the same time will voluntarily occur inevitably is. In that case, there is no problem externally asking for "advertisement manager," "banquet manager," "advertisement sales", "contact manager" etc, but this is not an authority but a role (role).
 
 
-About the launch of the # # new branch
+# About the launch of the new branch
 
 Existing branches are not moving · Contributors who want to discuss on branding chapters that are not in the area or have no existing theme can newly launch the branch freely. Please contact an existing contributor.
 
@@ -59,7 +59,7 @@ If you received contact, please declare branch establishment as follows. However
 
 Due to historical circumstances, there are also many information exchanges at [Facebook Group] (https://www.facebook.com/groups/209654002458990/). Please also register for us.
 
-For specific procedures and work after declaration, please ask existing contributors for support or [this document] (https://www.facebook.com/notes/jaws-ug%E5%85%A8 % E 5% 9 B% BD / jaws - ug% E 6% 94% AF% E 9% 83% A 8% E 7% AB% 8 B% E 3% 81% A 1% E 4% B 8% 8 A% E 3% 81% 92% E 3% 81 Please refer to% AE% E 3% 82% BF% E 3% 82% B 9% E 3% 82% AF / 467900496634338).
+For specific procedures and work after declaration, please ask existing contributors for support or [this document] (https://www.facebook.com/notes/jaws-ug%E5%85%A8%E5%9B%BD/jaws-ug%E6%94%AF%E9%83%A8%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF/467900496634338).
 
 ### About this Code of Conduct
 Contributors will discuss this code of conduct in an open place and will continue to modify it to be suitable for the situation of JAWS-UG at that time. Those who have an opinion on this code of conduct can openly discuss at slack above, participants should not disturb it.
