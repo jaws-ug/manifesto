@@ -5,7 +5,7 @@ Everyone who is doing community activities under the name of JAWS-UG, or who wis
 
 ## Philosophy of the JAWS-UG community
 
-Please be aware that the community operated under the name of JAWS-UG is lovingly connected with AWS provided by Amazon Web Services, Inc. It is never permitted to use the name of JAWS-UG for excessive propaganda, recruitment, or other commercial purposes.
+Please be aware that the community operated under the name of JAWS-UG is lovingly connected with AWS provided by Amazon Web Services Japan G.K. (AWS Japan). It is never permitted to use the name of JAWS-UG for excessive propaganda, recruitment, or other commercial purposes.
 
 # Expected behavior
 
