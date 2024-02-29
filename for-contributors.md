@@ -60,6 +60,9 @@ JAWS-UG運営チームは、JAWS-UGコミュニティに対して何らかの貢
   * コンセプト
   * コントリビューター
   * 推薦人（コントリビューターに既存支部メンバーがいる場合には不要）
+  * イベントページはConnpass または Doorkeeperにて作成し、管理者に”JAWS-UG 事務局”を追加
+    * https://connpass.com/user/jaws-ug/
+    * https://www.doorkeeper.jp/users/jawsug
 
 ### 支部の活動中・休眠中について
 [勉強会グループ一覧](https://jaws-ug.jp/act/)に表示された活動中支部がJAWS-UG 及び アマゾン ウェブ サービス ジャパン合同会社(AWS Japan) より認められている支部となります。活動中・休眠中を含めた勉強会グループ一覧は[こちら](https://docs.google.com/spreadsheets/d/18ceDqZoXyFT92S7MwsvS9a6SrKnd0D1gssKJkDzIE4g/edit?usp=sharing)を参照下さい
