@@ -1,20 +1,20 @@
 # JAWS-UG Manifesto
 
-JAWS-UG is a user group of Amazon Web Services. It is a user group for learning about AWS services, discussing and sharing knowledge.
+JAWS-UG (pronounced “jawz-ug”) is a user group for Amazon Web Services. It is a user group for learning about, discussing, and sharing knowledge about AWS services.
 
-The following sentences are the code of conduct we want you to observe for everyone involved in JAWS-UG. These were created with the following objectives.
+The following text is a code of conduct that we ask everyone involved with JAWS-UG to follow. These were created with the following objectives in mind
 
-* Sharing action guidelines in managing JAWS-UG
-* Clarification of expectations and unexpectations for community activities under the name of JAWS-UG
+* To share a code of conduct for operating JAWS-UG
+* Clarification of what is and is not expected of community activities conducted in the name of JAWS-UG
 
-JAWS - UG welcomes everyone who contributes to the community. We are waiting for everyone's participation.
+JAWS-UG welcomes everyone who contributes to the community. We look forward to your participation.
 
-# Currently in line with the Code of Conduct
+# Currently maintained code of conduct
 
-* [JAWS-UG Operation Code of Conduct] (for-contributors.md)
+* [JAWS-UG Administration Code of Conduct](for-contributors.md)
 
 # Code of conduct to be created
 
-* Code of conduct for event organizers
-* Sponsors' Guidelines
-* Guidelines for Experts
+* Code of Conduct for Event Organizers
+* Guidelines for Sponsors
+* Guidelines for Speakers

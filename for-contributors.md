@@ -70,7 +70,8 @@ JAWS-UG運営チームは、JAWS-UGコミュニティに対して何らかの貢
 ”活動中”から”休眠中”の切り替えは以下順序にて行います。
 - 毎年3月に開催されるJAWS-UG総会にて、12ヶ月間勉強会活動がない支部に対して連絡を行います。
 - 連絡後1ヶ月間で勉強会活動がない支部は”休眠中”の扱いとします。
-- 連絡はJAWS-UG総会、#core-members、[支部代表者](https://docs.google.com/spreadsheets/d/18ceDqZoXyFT92S7MwsvS9a6SrKnd0D1gssKJkDzIE4g/edit?usp=sharing)に対して行いますが、連絡が取れない場合においても”休眠中”の扱いとします。
+- 連絡はJAWS-UG総会、#core-members${yyyy}、[支部代表者](https://docs.google.com/spreadsheets/d/18ceDqZoXyFT92S7MwsvS9a6SrKnd0D1gssKJkDzIE4g/edit?usp=sharing)に対して行いますが、連絡が取れない場合においても”休眠中”の扱いとします。
+  - yyyyは年度単位での作成となります
 
 #### 活動中ステータスへの変更について
 ”休眠中”から”活動中”の切り替えは以下順序にて行います。
