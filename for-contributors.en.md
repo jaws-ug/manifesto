@@ -70,8 +70,8 @@ Chapters that are active and displayed on the [list of study groups](https://jaw
 The switch from “active” to “inactive” is done in the following order.
 - At the JAWS-UG general meeting held every March, we will contact chapters that have not held any study sessions for 12 months.
 - Chapters that have not held any study sessions for one month after being contacted will be treated as “inactive”.
-- We will contact the JAWS-UG General Assembly, #core-members${yyyymm}, and [Chapter Representatives](https://docs.google.com/spreadsheets/d/18ceDqZoXyFT92S7MwsvS9a6SrKnd0D1gssKJkDzIE4g/edit?usp=sharing), but even if we are unable to contact them, they will be treated as “inactive”.
-- yyyymm is created in units of years
+- We will contact the JAWS-UG General Assembly, #core-members${yyyy}, and [Chapter Representatives](https://docs.google.com/spreadsheets/d/18ceDqZoXyFT92S7MwsvS9a6SrKnd0D1gssKJkDzIE4g/edit?usp=sharing), but even if we are unable to contact them, they will be treated as “inactive”.
+- yyyy is created in units of years
 
 #### Changing to an active status
 The switch from “inactive” to “active” is done in the following order.
